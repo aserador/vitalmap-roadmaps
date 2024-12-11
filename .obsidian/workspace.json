@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "65727cfb96463144",
+    "type": "split",
+    "children": [
+      {
+        "id": "641295b5f75cbbe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a89a931e9a616e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
+                "viewState": {
+                  "x": 60,
+                  "y": -394.99999999999994,
+                  "zoom": -0.8287690739110851
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "read me!"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6977bbab84c185f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb89283ab5ec0e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a39b00221a5430",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b96042657f6f75bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3c09907bff389f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1cf2c2454f600d31",
+    "type": "split",
+    "children": [
+      {
+        "id": "87d8b131b2a4fc05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49647082a0cf30bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for read me!"
+            }
+          },
+          {
+            "id": "47a7c300d892e697",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from read me!"
+            }
+          },
+          {
+            "id": "9c995af39f76babc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "525c7e834180b59b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!!CONTRIBUTOR-GUIDE!!/read me!.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of read me!"
+            }
+          },
+          {
+            "id": "f819b7bbe70dd2ca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f819b7bbe70dd2ca",
+  "lastOpenFiles": [
+    "README.md",
+    "vitalmap-roadmaps/README.md",
+    "vitalmap-roadmaps",
+    "roadmaps/sleep.canvas",
+    "roadmaps-content/sleep/sleep-importance.md",
+    "roadmaps-content/sleep/sleep-fundamentals.md",
+    "roadmaps-content/sleep/sleep-welcome.md",
+    "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
+    "!!CONTRIBUTOR-GUIDE!!/images",
+    "!!CONTRIBUTOR-GUIDE!!",
+    "!!CONTRIBUTOR-GUIDE!!/images/Pasted image 20241210161313.png",
+    "Untitled.md",
+    "images",
+    "roadmaps-content/sleep",
+    "roadmaps-content",
+    "roadmaps",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
