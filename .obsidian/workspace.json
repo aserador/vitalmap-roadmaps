@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "641295b5f75cbbe7",
+        "id": "ae825892a05e0a55",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a89a931e9a616e",
+            "id": "4fa23d1c279a6558",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
-                "viewState": {
-                  "x": 60,
-                  "y": -394.99999999999994,
-                  "zoom": -0.8287690739110851
-                }
+                "file": "roadmaps-content/sleep/sleep-welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "read me!"
+              "icon": "lucide-file",
+              "title": "sleep-welcome"
             }
           }
         ]
@@ -176,16 +173,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f819b7bbe70dd2ca",
+  "active": "4fa23d1c279a6558",
   "lastOpenFiles": [
-    "README.md",
-    "vitalmap-roadmaps/README.md",
-    "vitalmap-roadmaps",
-    "roadmaps/sleep.canvas",
     "roadmaps-content/sleep/sleep-importance.md",
     "roadmaps-content/sleep/sleep-fundamentals.md",
+    "roadmaps-content/sleep/index.md",
+    "roadmaps/sleep.canvas",
     "roadmaps-content/sleep/sleep-welcome.md",
+    "README.md",
     "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
+    "vitalmap-roadmaps/README.md",
+    "vitalmap-roadmaps",
     "!!CONTRIBUTOR-GUIDE!!/images",
     "!!CONTRIBUTOR-GUIDE!!",
     "!!CONTRIBUTOR-GUIDE!!/images/Pasted image 20241210161313.png",
