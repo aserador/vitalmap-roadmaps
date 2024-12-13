@@ -11,14 +11,17 @@
             "id": "4fa23d1c279a6558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "roadmaps-content/pillars-of-health/index.md",
-                "mode": "source",
-                "source": true
+                "file": "roadmaps/pillars-of-health.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -24.172657640223207,
+                  "zoom": -0.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-layout-dashboard",
+              "title": "pillars-of-health"
             }
           }
         ]
@@ -175,16 +178,17 @@
   },
   "active": "4fa23d1c279a6558",
   "lastOpenFiles": [
+    "roadmaps/movement.canvas",
+    "roadmaps/nutrition.canvas",
+    "roadmaps/pillars-of-health.canvas",
+    "roadmaps/sleep.canvas",
+    "roadmaps-content/pillars-of-health/index.md",
     "roadmaps-content/pillars-of-health/pillars-welcome.md",
     "roadmaps-content/movement/movement-welcome.md",
     "roadmaps-content/nutrition/nutrition-welcome.md",
     "roadmaps-content/sleep/sleep-welcome.md",
     "roadmaps-content/sleep/sleep-stages.md",
-    "roadmaps/pillars-of-health.canvas",
-    "roadmaps/movement.canvas",
-    "roadmaps/nutrition.canvas",
     "roadmaps-content/movement/index.md",
-    "roadmaps-content/pillars-of-health/index.md",
     "roadmaps-content/nutrition/index.md",
     "roadmaps-content/sleep/index.md",
     "roadmaps-content/pillars-of-health",
@@ -192,7 +196,6 @@
     "roadmaps-content/sleep/sleep-caffeine.md",
     "roadmaps-content/movement",
     "roadmaps/Untitled.md",
-    "roadmaps/sleep.canvas",
     "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
     "roadmaps-content/sleep/sleep-fundamentals.md",
     "roadmaps-content/sleep/sleep-importance.md",

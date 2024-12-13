@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0f3b2bd6fab49e63","type":"text","text":"[[nutrition-welcome|Welcome]]","x":-125,"y":-30,"width":250,"height":60,"color":"2"}
+		{"id":"0f3b2bd6fab49e63","type":"text","text":"[[pillars-welcome|Welcome]]","x":-125,"y":-30,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[]
 }
