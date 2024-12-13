@@ -2,7 +2,6 @@
 title: Welcome!
 lastUpdated: 12/10/2024
 ---
-
 Welcome to the Vitalmap sleep course!
 
 This is a community-ran resource hub and guide to optimize your sleep, curated by experts in sleep science and the Vitalmap community.

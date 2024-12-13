@@ -11,17 +11,14 @@
             "id": "4fa23d1c279a6558",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "roadmaps/sleep.canvas",
-                "viewState": {
-                  "x": 221.3295607456168,
-                  "y": 236.56492734688914,
-                  "zoom": -0.585804833916536
-                }
+                "file": "roadmaps-content/pillars-of-health/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "sleep"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -178,22 +175,31 @@
   },
   "active": "4fa23d1c279a6558",
   "lastOpenFiles": [
-    "roadmaps-content/sleep/sleep-stages.md",
-    "roadmaps/sleep.canvas",
-    "roadmaps-content/nutrition/index.md",
+    "roadmaps-content/pillars-of-health/pillars-welcome.md",
+    "roadmaps-content/movement/movement-welcome.md",
     "roadmaps-content/nutrition/nutrition-welcome.md",
-    "roadmaps-content/sleep/sleep-circadian.md",
-    "roadmaps-content/sleep/index.md",
-    "roadmaps-content/sleep/sleep-pitfalls.md",
-    "roadmaps-content/sleep/sleep-importance.md",
-    "roadmaps-content/sleep/sleep-alcohol-weed.md",
     "roadmaps-content/sleep/sleep-welcome.md",
-    "roadmaps-content/sleep/sleep-fundamentals.md",
-    "roadmaps-content/sleep/sleep-caffeine.md",
+    "roadmaps-content/sleep/sleep-stages.md",
+    "roadmaps/pillars-of-health.canvas",
+    "roadmaps/movement.canvas",
     "roadmaps/nutrition.canvas",
+    "roadmaps-content/movement/index.md",
+    "roadmaps-content/pillars-of-health/index.md",
+    "roadmaps-content/nutrition/index.md",
+    "roadmaps-content/sleep/index.md",
+    "roadmaps-content/pillars-of-health",
+    "roadmaps-content/sleep/sleep-circadian.md",
+    "roadmaps-content/sleep/sleep-caffeine.md",
+    "roadmaps-content/movement",
+    "roadmaps/Untitled.md",
+    "roadmaps/sleep.canvas",
+    "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
+    "roadmaps-content/sleep/sleep-fundamentals.md",
+    "roadmaps-content/sleep/sleep-importance.md",
+    "roadmaps-content/sleep/sleep-pitfalls.md",
+    "roadmaps-content/sleep/sleep-alcohol-weed.md",
     "roadmaps-content/nutrition",
     "README.md",
-    "!!CONTRIBUTOR-GUIDE!!/read me!.canvas",
     "vitalmap-roadmaps/README.md",
     "vitalmap-roadmaps",
     "!!CONTRIBUTOR-GUIDE!!/images",

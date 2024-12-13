@@ -2,12 +2,13 @@
 	"nodes":[
 		{"id":"3b380277107f5509","type":"group","x":-585,"y":-1120,"width":1290,"height":856,"label":"Color guide"},
 		{"id":"5c01ff54dc062f0d","type":"text","text":"## Color guide\nVitalmap uses the color of nodes/edges to distinguish the type of node/edge it is upon styling. When creating or editing roadmaps please use the correct color (you must pick one). \n![[Pasted image 20241210161313.png]]\n","x":-315,"y":-560,"width":750,"height":276},
-		{"id":"7d22e57ad718574d","type":"text","text":"## Color 0\nThis is the base color. Nodes with no color will not be rendered - use this for blueprinting","x":-565,"y":-1100,"width":250,"height":492},
-		{"id":"e6bc8c4118f38cd4","type":"text","text":"## Color 1\nThis color is used for subtopics. They typically connect to Color 2 nodes.","x":-315,"y":-1100,"width":250,"height":492,"color":"1"},
-		{"id":"8ef321ee3809782e","type":"text","text":"## Color 2\nThis color is used for main topics.","x":-65,"y":-1100,"width":250,"height":492,"color":"2"},
-		{"id":"05952113cf297b61","type":"text","text":"## Color 3\nColor 3 are nodes that lead into other roadmaps.","x":185,"y":-1100,"width":250,"height":492,"color":"3"},
-		{"id":"ea41422dda123034","type":"text","text":"## Color 4\nColor 4 nodes will be displayed as an unclickable text.","x":435,"y":-1100,"width":250,"height":492,"color":"4"},
-		{"id":"09212320df2c68ef","type":"text","text":"## Welcome to Vitalmap!\n\nThank you for your interest in contributing to our roadmaps. Please read the guides surrounding this node before diving in.","x":-252,"y":-60,"width":625,"height":390,"color":"#ffe1b8"}
+		{"id":"7d22e57ad718574d","type":"text","text":"## Color 0\nThis is the base color. Nodes with no color will not be rendered - use this for blueprinting","x":-565,"y":-1100,"width":405,"height":246},
+		{"id":"09212320df2c68ef","type":"text","text":"## Welcome to Vitalmap!\n\nThank you for your interest in contributing to our roadmaps. Please read the guides surrounding this node before diving in.","x":-252,"y":-60,"width":625,"height":390,"color":"#ffe1b8"},
+		{"id":"e6bc8c4118f38cd4","type":"text","text":"## Color 1\nThis color is used for subtopics. They typically connect to Color 2 nodes.","x":-160,"y":-1100,"width":420,"height":246,"color":"1"},
+		{"id":"8ef321ee3809782e","type":"text","text":"## Color 2\nThis color is used for main topics.","x":260,"y":-1100,"width":425,"height":246,"color":"2"},
+		{"id":"05952113cf297b61","type":"text","text":"## Color 3\nColor 3 are nodes that lead into other roadmaps.","x":-565,"y":-854,"width":405,"height":254,"color":"3"},
+		{"id":"ea41422dda123034","type":"text","text":"## Color 4\nColor 4 nodes will be displayed as an unclickable text.","x":-160,"y":-854,"width":420,"height":254,"color":"4"},
+		{"id":"9078b06092aa1b43","type":"text","text":"## Color 5\nColor 5 nodes are meant to render markdown within the node. For example, this very node, when exported onto vitalmap, will appear as is.","x":260,"y":-854,"width":425,"height":254,"color":"5"}
 	],
 	"edges":[
 		{"id":"b5dcbd7a7fffddf9","fromNode":"09212320df2c68ef","fromSide":"top","toNode":"3b380277107f5509","toSide":"bottom"}
