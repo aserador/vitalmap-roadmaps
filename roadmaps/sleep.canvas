@@ -1,22 +1,26 @@
 {
 	"nodes":[
-		{"id":"7bd75b8318037a0b","type":"group","x":-520,"y":-320,"width":1200,"height":920,"label":"Optimal Sleep Roadmap"},
+		{"id":"c9894e3c55af877f","type":"group","x":-420,"y":660,"width":840,"height":100,"color":"1","label":"Dive into other relevant roadmaps to optimize your health"},
 		{"id":"b66e46c621577b9c","type":"text","text":"[[sleep-circadian|Circadian Rhythm]]","x":-500,"y":-50,"width":250,"height":60,"color":"1"},
 		{"id":"5b0285969230c362","type":"text","text":"[[sleep-stages|Sleep Stages]]","x":-500,"y":-120,"width":250,"height":60,"color":"1"},
 		{"id":"d6a052f407823fa6","type":"text","text":"[[sleep-importance|Importance of sleep]]","x":-500,"y":-190,"width":250,"height":60,"color":"1"},
 		{"id":"2ec3f900386fa6a6","type":"text","text":"[[sleep-welcome|Welcome]]","x":-120,"y":-300,"width":250,"height":60,"color":"2"},
 		{"id":"b23d63b1dd8b822f","type":"text","text":"Eight Sleep Mattress","x":-500,"y":150,"width":250,"height":60},
+		{"id":"89de75dcb96fef10","type":"text","text":"[[sleep-pitfalls|Pitfalls to avoid]]","x":280,"y":-270,"width":250,"height":60,"color":"2"},
+		{"id":"c42a7a09551d015c","type":"text","text":"[[sleep-caffeine|Caffeine]]","x":280,"y":-170,"width":250,"height":60,"color":"1"},
 		{"id":"31652a4dcd747aa7","type":"text","text":"WHOOP Sleep Tracking","x":-500,"y":220,"width":250,"height":60},
 		{"id":"5dbe9262252f3d7d","type":"text","text":"Melatonin","x":-500,"y":290,"width":250,"height":60},
 		{"id":"a54e19135c1a8e42","type":"text","text":"Ultradian cycle timing","x":-500,"y":360,"width":250,"height":60},
-		{"id":"d25b07ca5df6f6f5","type":"text","text":"Keep sleeping","x":-120,"y":520,"width":250,"height":60,"color":"4"},
-		{"id":"89de75dcb96fef10","type":"text","text":"[[sleep-pitfalls|Pitfalls to avoid]]","x":280,"y":-270,"width":250,"height":60,"color":"2"},
 		{"id":"c4702a4718a8950f","type":"text","text":"[[sleep-fundamentals|Sleep Fundamentals]]","x":-120,"y":-120,"width":250,"height":60,"color":"2"},
-		{"id":"cf2b5274e164a2ac","type":"text","text":"Advanced Techniques","x":-120,"y":260,"width":250,"height":60,"color":"2"},
-		{"id":"c42a7a09551d015c","type":"text","text":"[[sleep-caffeine|Caffeine]]","x":280,"y":-170,"width":250,"height":60,"color":"1"},
 		{"id":"31116a1790aa85dd","type":"text","text":"Light exposure","x":280,"y":-30,"width":250,"height":60},
-		{"id":"4e19263f92355105","type":"text","text":"Practical Tips","x":280,"y":80,"width":250,"height":60,"color":"2"},
+		{"id":"cf2b5274e164a2ac","type":"text","text":"Advanced Techniques","x":-120,"y":260,"width":250,"height":60,"color":"2"},
 		{"id":"344800e82e308a2f","type":"text","text":"[[sleep-alcohol-weed|Alcohol & Weed]]","x":280,"y":-100,"width":250,"height":60,"color":"1"},
+		{"id":"d25b07ca5df6f6f5","type":"text","text":"Keep sleeping","x":-120,"y":480,"width":250,"height":60,"color":"4"},
+		{"id":"74806438e81dfa56","type":"text","text":"[[pillars-of-health.canvas|Pillars of Health]]","x":-120,"y":680,"width":250,"height":60,"color":"3"},
+		{"id":"f6fb94ea93b5627a","type":"text","text":"[[nutrition.canvas|Nutrition]]","x":155,"y":680,"width":250,"height":60,"color":"3"},
+		{"id":"f4d68e8b86d16519","type":"text","text":"[[movement.canvas|Movement]]","x":-400,"y":680,"width":250,"height":60,"color":"3"},
+		{"id":"215710b8224c5321","type":"text","text":"Sleep is one of, if not the most important part of taking care of your health. Take time to master it!","x":-135,"y":-30,"width":280,"height":130,"color":"5"},
+		{"id":"4e19263f92355105","type":"text","text":"Practical Tips","x":280,"y":80,"width":250,"height":60,"color":"2"},
 		{"id":"d60d1da41c884fac","type":"text","text":"Nightly routine","x":280,"y":190,"width":250,"height":60},
 		{"id":"6d9c7c587a91cecf","type":"text","text":"Meal timing","x":280,"y":400,"width":250,"height":60},
 		{"id":"1485e16ffb2b0b25","type":"text","text":"Temperature management","x":280,"y":260,"width":250,"height":60},
@@ -36,6 +40,7 @@
 		{"id":"dc3df679f82b0788","fromNode":"cf2b5274e164a2ac","fromSide":"left","toNode":"31652a4dcd747aa7","toSide":"right"},
 		{"id":"bf189ec0844d5b06","fromNode":"cf2b5274e164a2ac","fromSide":"left","toNode":"5dbe9262252f3d7d","toSide":"right"},
 		{"id":"558a695c09902bbd","fromNode":"cf2b5274e164a2ac","fromSide":"left","toNode":"a54e19135c1a8e42","toSide":"right"},
-		{"id":"d9ff4f664007179b","fromNode":"cf2b5274e164a2ac","fromSide":"bottom","toNode":"d25b07ca5df6f6f5","toSide":"top","color":"2"}
+		{"id":"d9ff4f664007179b","fromNode":"cf2b5274e164a2ac","fromSide":"bottom","toNode":"d25b07ca5df6f6f5","toSide":"top","color":"2"},
+		{"id":"9c75f78754893eed","fromNode":"d25b07ca5df6f6f5","fromSide":"bottom","toNode":"c9894e3c55af877f","toSide":"top","color":"1"}
 	]
 }
