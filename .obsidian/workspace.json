@@ -15,8 +15,8 @@
               "state": {
                 "file": "roadmaps/sleep.canvas",
                 "viewState": {
-                  "x": 81.58439174359147,
-                  "y": -25.173038982331107,
+                  "x": 72.65333537920995,
+                  "y": 57.758198686926384,
                   "zoom": -0.45617328386165135
                 }
               },
@@ -24,7 +24,8 @@
               "title": "sleep"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -80,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1cf2c2454f600d31",
@@ -179,13 +181,16 @@
   },
   "active": "3285912a8d14211c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-15 14.48.13.excalidraw.md",
+    "roadmaps-content/sleep/sleep-stages.md",
+    "Deep sleep.md",
+    "REM-Sleep.md",
     "roadmaps/sleep.canvas",
+    "roadmaps/movement.canvas",
+    "Excalidraw/Drawing 2024-12-15 14.48.13.excalidraw.md",
     "Excalidraw/Drawing 2024-12-15 14.47.03.excalidraw.md",
     "Excalidraw",
     "roadmaps-content/sleep/sleep-welcome.md",
     "roadmaps-content/sleep/sleep-fundamentals.md",
-    "roadmaps/movement.canvas",
     "!!CONTRIBUTOR-GUIDE!!/Ensuring up-to-date information.md",
     "!!CONTRIBUTOR-GUIDE!!/READ ME.canvas",
     "roadmaps-content/sleep/index.md",
@@ -200,7 +205,6 @@
     "roadmaps-content/pillars-of-health/index.md",
     "roadmaps-content/sleep/sleep-alcohol-weed.md",
     "roadmaps-content/pillars-of-health/pillars-welcome.md",
-    "roadmaps-content/sleep/sleep-stages.md",
     "roadmaps-content/pillars-of-health",
     "roadmaps-content/movement",
     "roadmaps/Untitled.md",
